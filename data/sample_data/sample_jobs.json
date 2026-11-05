@@ -1,0 +1,20 @@
+[
+  {
+    "id": "ml_engineer_job",
+    "title": "Senior Machine Learning Engineer (AI & NLP)",
+    "company": "Apex AI Labs",
+    "description": "Apex AI Labs is seeking a Senior Machine Learning Engineer to lead the design and deployment of cutting-edge NLP, RAG, and LLM solutions.\n\nKey Responsibilities:\n- Build, fine-tune, and deploy transformer-based deep learning models using PyTorch, Hugging Face, and spaCy.\n- Architect production RAG systems using vector databases such as pgvector or FAISS.\n- Develop scalable backend REST APIs using FastAPI and Python in Docker containers.\n- Deploy ML services on AWS infrastructure with robust CI/CD integration.\n- Collaborate with cross-functional teams to integrate NLP models into enterprise applications.\n\nRequirements:\n- 3+ years of experience in Machine Learning, Deep Learning, and NLP.\n- Expert proficiency in Python, PyTorch, Scikit-Learn, and Hugging Face Transformers.\n- Solid experience building backend services with FastAPI, REST APIs, and Docker.\n- Experience with PostgreSQL, Vector Databases (pgvector), and AWS (EC2, S3).\n- Experience with Kubernetes and Terraform is a strong plus.\n- Bachelor's degree in Computer Science, AI, or related quantitative field."
+  },
+  {
+    "id": "backend_developer_job",
+    "title": "Senior Backend Engineer (Python / FastAPI)",
+    "company": "Nexus Infrastructure",
+    "description": "Nexus Infrastructure is hiring a Backend Engineer to build resilient microservices and data pipelines.\n\nResponsibilities:\n- Design, develop, and maintain RESTful APIs and microservices using FastAPI, Python, and SQLAlchemy.\n- Optimize database queries and schema designs in PostgreSQL and Redis caching layers.\n- Deploy containerized services using Docker, Kubernetes, and AWS.\n- Implement automated unit tests and CI/CD pipelines.\n\nRequirements:\n- 3+ years of software engineering experience focusing on backend development with Python.\n- Strong expertise in FastAPI, Django or Flask, REST APIs, and SQL.\n- Mastery of PostgreSQL, database query tuning, and SQLAlchemy.\n- Hands-on experience with Docker, Linux, Git, and CI/CD tools.\n- Knowledge of Kubernetes and AWS cloud infrastructure.\n- Bachelor's degree in Computer Science or Software Engineering."
+  },
+  {
+    "id": "data_analyst_job",
+    "title": "Senior Data Analyst",
+    "company": "DataPulse Tech",
+    "description": "DataPulse Tech is looking for a Data Analyst to turn data into strategic insights.\n\nResponsibilities:\n- Query complex enterprise databases using advanced SQL.\n- Build data pipelines and analytics scripts in Python using Pandas and NumPy.\n- Develop interactive dashboards using Tableau or Power BI.\n- Collaborate with product managers and business stakeholders.\n\nRequirements:\n- 2+ years of experience in data analysis, business intelligence, or reporting.\n- Expert knowledge of SQL, PostgreSQL, and relational database querying.\n- Proficiency in Python (Pandas, NumPy, Scikit-Learn).\n- Strong expertise in data visualization tools (Tableau, Power BI).\n- Bachelor's degree in Data Science, Statistics, Mathematics, or Computer Science."
+  }
+]

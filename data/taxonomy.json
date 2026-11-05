@@ -1,0 +1,87 @@
+{
+  "categories": {
+    "programming": [
+      {"name": "Python", "aliases": ["python", "python3", "py"]},
+      {"name": "JavaScript", "aliases": ["javascript", "js", "ecmascript"]},
+      {"name": "TypeScript", "aliases": ["typescript", "ts"]},
+      {"name": "Java", "aliases": ["java", "j2ee"]},
+      {"name": "C++", "aliases": ["c++", "cpp"]},
+      {"name": "C#", "aliases": ["c#", "csharp", ".net"]},
+      {"name": "Go", "aliases": ["go", "golang"]},
+      {"name": "Rust", "aliases": ["rust", "rustlang"]},
+      {"name": "SQL", "aliases": ["sql", "structured query language"]},
+      {"name": "R", "aliases": ["r", "r-lang", "rlang"]},
+      {"name": "Bash", "aliases": ["bash", "shell", "zsh", "shell scripting"]}
+    ],
+    "machine_learning": [
+      {"name": "Machine Learning", "aliases": ["machine learning", "ml"]},
+      {"name": "Deep Learning", "aliases": ["deep learning", "dl"]},
+      {"name": "Natural Language Processing", "aliases": ["natural language processing", "nlp"]},
+      {"name": "Computer Vision", "aliases": ["computer vision", "cv"]},
+      {"name": "PyTorch", "aliases": ["pytorch", "torch"]},
+      {"name": "TensorFlow", "aliases": ["tensorflow", "tf"]},
+      {"name": "Scikit-Learn", "aliases": ["scikit-learn", "sklearn", "scikit learn"]},
+      {"name": "Hugging Face", "aliases": ["hugging face", "huggingface", "transformers"]},
+      {"name": "Retrieval-Augmented Generation", "aliases": ["rag", "retrieval augmented generation", "retrieval-augmented generation"]},
+      {"name": "Large Language Models", "aliases": ["llms", "llm", "large language model", "large language models"]},
+      {"name": "Keras", "aliases": ["keras"]},
+      {"name": "XGBoost", "aliases": ["xgboost", "xgb"]},
+      {"name": "OpenCV", "aliases": ["opencv"]},
+      {"name": "spaCy", "aliases": ["spacy"]},
+      {"name": "NLTK", "aliases": ["nltk"]},
+      {"name": "Vector Databases", "aliases": ["vector database", "vector DB", "pgvector", "pinecone", "chroma", "faiss", "weaviate", "qdrant"]}
+    ],
+    "backend": [
+      {"name": "FastAPI", "aliases": ["fastapi", "fast-api"]},
+      {"name": "Django", "aliases": ["django", "django-rest-framework", "drf"]},
+      {"name": "Flask", "aliases": ["flask"]},
+      {"name": "REST APIs", "aliases": ["rest api", "rest apis", "restful", "restful api", "restful apis"]},
+      {"name": "GraphQL", "aliases": ["graphql"]},
+      {"name": "Node.js", "aliases": ["node.js", "nodejs", "node"]},
+      {"name": "Express.js", "aliases": ["express", "express.js", "expressjs"]},
+      {"name": "Spring Boot", "aliases": ["spring boot", "spring", "springboot"]},
+      {"name": "gRPC", "aliases": ["grpc"]},
+      {"name": "Celery", "aliases": ["celery"]},
+      {"name": "Microservices", "aliases": ["microservices", "microservice architecture"]}
+    ],
+    "frontend": [
+      {"name": "React.js", "aliases": ["react", "react.js", "reactjs"]},
+      {"name": "Next.js", "aliases": ["next.js", "nextjs", "next"]},
+      {"name": "Vue.js", "aliases": ["vue", "vue.js", "vuejs"]},
+      {"name": "Angular", "aliases": ["angular", "angularjs"]},
+      {"name": "HTML5", "aliases": ["html", "html5"]},
+      {"name": "CSS3", "aliases": ["css", "css3", "sass", "scss"]},
+      {"name": "Tailwind CSS", "aliases": ["tailwind", "tailwindcss"]},
+      {"name": "Redux", "aliases": ["redux", "redux toolkit"]}
+    ],
+    "databases": [
+      {"name": "PostgreSQL", "aliases": ["postgresql", "postgres", "pg"]},
+      {"name": "MySQL", "aliases": ["mysql"]},
+      {"name": "MongoDB", "aliases": ["mongodb", "mongo"]},
+      {"name": "Redis", "aliases": ["redis"]},
+      {"name": "SQLite", "aliases": ["sqlite", "sqlite3"]},
+      {"name": "Elasticsearch", "aliases": ["elasticsearch"]},
+      {"name": "Cassandra", "aliases": ["cassandra"]}
+    ],
+    "cloud": [
+      {"name": "AWS", "aliases": ["aws", "amazon web services", "ec2", "s3", "lambda"]},
+      {"name": "Google Cloud Platform", "aliases": ["gcp", "google cloud", "google cloud platform"]},
+      {"name": "Microsoft Azure", "aliases": ["azure", "microsoft azure"]}
+    ],
+    "devops": [
+      {"name": "Docker", "aliases": ["docker", "containerization"]},
+      {"name": "Kubernetes", "aliases": ["kubernetes", "k8s"]},
+      {"name": "CI/CD", "aliases": ["ci/cd", "cicd", "continuous integration", "github actions", "jenkins"]},
+      {"name": "Terraform", "aliases": ["terraform"]},
+      {"name": "Linux", "aliases": ["linux", "ubuntu", "debian", "centos"]},
+      {"name": "Git", "aliases": ["git", "github", "gitlab"]}
+    ],
+    "data_engineering": [
+      {"name": "Pandas", "aliases": ["pandas"]},
+      {"name": "NumPy", "aliases": ["numpy"]},
+      {"name": "Apache Spark", "aliases": ["spark", "pyspark", "apache spark"]},
+      {"name": "Kafka", "aliases": ["kafka", "apache kafka"]},
+      {"name": "Airflow", "aliases": ["airflow", "apache airflow"]}
+    ]
+  }
+}
