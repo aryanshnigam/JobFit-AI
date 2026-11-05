@@ -81,8 +81,8 @@ flowchart TD
 
 ### Step 1: Clone Repository
 ```bash
-git clone https://github.com/your-username/jobfit-ai.git
-cd jobfit-ai
+git clone https://github.com/aryanshnigam/JobFit-AI.git
+cd JobFit-AI
 ```
 
 ### Step 2: Backend Setup
